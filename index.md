@@ -10,6 +10,16 @@ This study was motivated by recent studies investigating how Twitter might affec
 
 [Princeton Study](http://www.princeton.edu/~fujiwara/papers/Social_Media_and_Vote_Outcomes.pdf)
 
+## Initial Analysis
+
+As we were dealing with textual data, our initial path leaned towards sentiment analysis and word frequency. As one may have guessed, Donald Trump was one of the main talking points in both of the elections. Mentions of the other candidate were still prevalent, but definitely not as much as Donald Trump was.
+
+![Wordclouds](wordclouds.png)
+
+In investigating sentiment, we found that it was not indicative of anything really. In visualizing the distribution of sentiment scores for both of the elections, we found that both were bimodally distributed. This makes sense in hindsight as there are typically positive sentiment phrases, and negative sentiment phrases. However, the frequencies of these sentiments were not different between the two elections.
+
+![Sentiment](sentiment_overview.png)
+
 ## Discussion Metric
 
 In order to track activity, we constructed a measure of activity referred to as the level of discussion: <br>
