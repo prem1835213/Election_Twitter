@@ -34,9 +34,10 @@ In order to track activity, we constructed a measure of activity referred to as 
 <br>
 
 ![equation](https://latex.codecogs.com/gif.latex?d%20%3D%20ln%28rettweets%20&plus;%20likes%20&plus;%201%29)
-<br>
+
 For each unique day in the datasets, 2016 and 2020, we aggregated the total number of likes and retweets for each day. This was then transformed using the natural logarithm in order to eliminate skewness and preserve information. Only retweets and likes were taken into account in this analysis as comments proved substantially harder to retreive for each tweet due to the way Twitter stores its information.
 
-### Support or Contact
+## Distribution of Discussion levels
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![2016Discussion](disc_2016.png)
+![2020Discussion](disc_2020.png)
