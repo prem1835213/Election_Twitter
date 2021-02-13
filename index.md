@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Discussion Metric
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prem1835213/Election_Twitter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![equation](https://latex.codecogs.com/gif.latex?d%20%3D%20ln%28rettweets%20&plus;%20likes%20&plus;%201%29)
 
 ### Support or Contact
 
