@@ -23,3 +23,9 @@ What we see here, is a difference in the distribution of daily discussion levels
 
 ![2016Discussion](disc_2016.png)
 ![2020Discussion](disc_2020.png)
+
+## Significance of Difference
+
+TODO
+
+## Summary
