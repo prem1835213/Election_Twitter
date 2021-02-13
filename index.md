@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Twitter's Impact on Elections
 
-You can use the [editor on GitHub](https://github.com/prem1835213/Election_Twitter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The rise of social media has dominated every aspect of our daily lives. In the height of the 2020 presidential election and as COVID-19 rampaged throughout the world, it facilitated increased online discussion, as well as the spread of information and misinformation. This paper investigates the relationship that discussion on social media has with election outcomes. It finds that in comparing two distinct presidential elections, both of which took place as Twitter usage grew steadily, increased discussion levels were present in a Democratic win of the election.
 
 ### Markdown
 
