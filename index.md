@@ -20,6 +20,14 @@ In investigating sentiment, we found that it was not indicative of anything real
 
 ![Sentiment](sentiment_overview.png)
 
+After completing the initial EDA, we looked into a time-series sentiment analysis for each of the election periods. During the time-frame of July 13 to November 10 of each year, we plotted the average daily sentiment on a scale of -1 to 1.
+
+![Time_Series](time_series.jpeg)
+
+We defined a positive threshold at 0.05 (red) and a negative threshold at -0.05 (green). This way, we can capture the sentiment trends as well as peaks and troughs directly. In  2016 (top), the daily sentiment fluctuates severely through July and August as discussions heated up while the magnitude is much smaller in 2020 (bottom). As we approach the election day, the daily sentiment in 2016 dips twice, each corresponding to one of the presidential debates that occurred in early to mid-October. In the sentiment trend for 2020, a slight dip occurred towards the end of September, also matching the date of the first presidential debate.
+
+As we approach November, the 2020 trend peaked twice, once on election day and again on the day the day President Biden was elected. This differed from the 2016 trend as the single peak occurred only after when the election results were finalized. Hence, the sentiment peaks and troughs throughout the election period has been interconnecting with key election events and the discussion levels are likely to be more concentrated during these dates.
+
 ## Discussion Metric
 
 In order to track activity, we constructed a measure of activity referred to as the level of discussion: <br>
