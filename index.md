@@ -21,8 +21,7 @@ For each unique day in the datasets, 2016 and 2020, we aggregated the total numb
 
 What we see here, is a difference in the distribution of daily discussion levels. The 2016 election's discussion levels by day seem more more normally distributed in comparison the 2020 election's discussion levels - at least visually. This was our first indication that the study which inspired this investigation may have had concrete results.
 
-![2016Discussion](disc_2016.png)
-![2020Discussion](disc_2020.png)
+![2016_2020Discussion](disc_2016_2020.jpeg)
 
 ## Significance of Difference
 
