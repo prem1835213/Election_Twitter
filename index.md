@@ -8,26 +8,6 @@ This study was motivated by recent studies investigating how Twitter might affec
 
 [Princeton Study](http://www.princeton.edu/~fujiwara/papers/Social_Media_and_Vote_Outcomes.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## Discussion Metric
 
 In order to track activity, we constructed a measure of activity referred to as the level of discussion: <br>
