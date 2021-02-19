@@ -49,7 +49,7 @@ In order to evaluate whether the two distributions were truly different, we cond
 
 ![equation](https://latex.codecogs.com/gif.latex?z&space;=&space;\frac{\mu_1&space;-&space;\mu_2}{\sqrt{\frac{\sigma_1^2}{n_1}&plus;&space;\frac{\sigma_2^2}{n_2}}})
 
-This resulted in a Z score of 0.39985 and a p-value of 0.0001346. This passes all signifcance tests at 0.1, 0.05, and 0.01 indicating that the difference in means that we found in our two samples of the 2016 and 2020 election tweets were very statistically significant.
+This resulted in a Z score of 3.9985 and a p-value of 0.0001346. This passes all signifcance tests at 0.1, 0.05, and 0.01 indicating that the difference in means that we found in our two samples of the 2016 and 2020 election tweets were very statistically significant.
 
 ## Summary
 
